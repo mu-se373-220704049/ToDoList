@@ -31,7 +31,7 @@ class MainActivity : ComponentActivity() {
 
 @Composable
 fun TodoApp() {
-    var todoItems by remember { mutableStateOf(listOf("Task 1", "Task 2", "Task 3")) }
+    var todoItems by remember { mutableStateOf(listOf("Task")) }
     var newItemText by remember { mutableStateOf("") }
 
     Column(
@@ -40,14 +40,14 @@ fun TodoApp() {
             .fillMaxSize()
     ) {
         Text(
-            text = "To-Do List",
+            text = "To Do List",
             style = MaterialTheme.typography.headlineMedium,
             modifier = Modifier.padding(bottom = 8.dp)
         )
         TextField(
             value = newItemText,
             onValueChange = { newItemText = it },
-            label = { Text("Enter a new task") },
+            label = { Text("Enter a new task...") },
             modifier = Modifier.fillMaxWidth()
         )
         Button(
