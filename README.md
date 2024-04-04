@@ -38,6 +38,9 @@ Success Criteria:
 - The app should have a minimum of bugs and issues post-launch.
 - User feedback should indicate satisfaction with the app's features and usability.
 
-![Ekran görüntüsü 2024-04-04 171455](https://github.com/mu-se373-220704049/ToDoList/assets/163425051/5a4c3ff5-737d-4a00-a84c-56618c58ca04)
-![Ekran görüntüsü 2024-04-04 172157](https://github.com/mu-se373-220704049/ToDoList/assets/163425051/f0745f07-f036-4c45-b960-958dd3d70bbd)
-![Ekran görüntüsü 2024-04-04 172253](https://github.com/mu-se373-220704049/ToDoList/assets/163425051/b386e0d7-0f50-4a07-9a42-22d0a0a11f5f)
+![Ekran görüntüsü 2024-04-04 191908](https://github.com/mu-se373-220704049/ToDoList/assets/163425051/45346493-868b-45e7-907c-d50418d588e9)
+![Ekran görüntüsü 2024-04-04 191935](https://github.com/mu-se373-220704049/ToDoList/assets/163425051/65d20431-a434-46c8-a016-b740cc363390)
+![Ekran görüntüsü 2024-04-04 191947](https://github.com/mu-se373-220704049/ToDoList/assets/163425051/6bb975f7-3123-44af-a4d1-34028b8ef87e)
+
+
+
